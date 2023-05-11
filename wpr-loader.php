@@ -4,7 +4,7 @@
  * Plugin Name: WPR Loader
  * Description: A preloader plugin for webplover.com
  * Version: 1.1.3
- * Author: Kazim
+ * Author: WebPlover
  */
 
 defined('ABSPATH') || exit;
